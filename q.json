@@ -1,0 +1,79 @@
+[
+  {
+    "normalized_ean": "00062338779614",
+    "main_image_reserve": [
+      "https://s3.amazonaws.com/img.takeoff/manual/20181218-200339-5e7576-849-7699-27060-062338779614.IMG8923.SN5e7576.obj.0.1.jpg"
+    ],
+    "image_reserve": [
+      "https://s3.amazonaws.com/img.takeoff/manual/20181218-200350-5e7576-849-7699-27062-062338779614.IMG8925.SN5e7576.obj.0.1.jpg",
+      "https://s3.amazonaws.com/img.takeoff/manual/20181218-200358-5e7576-849-7699-27064-062338779614.IMG8927.SN5e7576.obj.0.1.jpg"
+    ]
+  },
+  {
+    "normalized_ean": "00042100009002",
+    "main_image_reserve": [
+      "https://s3.amazonaws.com/img.takeoff/manual/20181218-200811-5e7576-849-7707-27108-042100009002.IMG8971.SN5e7576.obj.0.1.jpg"
+    ],
+    "image_reserve": [
+      "https://s3.amazonaws.com/img.takeoff/manual/20181218-200816-5e7576-849-7707-27110-042100009002.IMG8973.SN5e7576.obj.0.1.jpg",
+      "https://s3.amazonaws.com/img.takeoff/manual/20181218-200820-5e7576-849-7707-27112-042100009002.IMG8975.SN5e7576.obj.0.1.jpg"
+    ]
+  },
+  {
+    "normalized_ean": "00049000157611",
+    "main_image_reserve": [
+      "https://s3.amazonaws.com/img.takeoff/manual/20181218-201421-5e7576-851-7711-27134-049000157611.IMG8997.SN5e7576.obj.0.1.jpg"
+    ],
+    "image_reserve": [
+      "https://s3.amazonaws.com/img.takeoff/manual/20181218-201432-5e7576-851-7711-27137-049000157611.IMG9000.SN5e7576.obj.0.1.jpg"
+    ]
+  },
+  {
+    "normalized_ean": "00046500018428",
+    "main_image_reserve": [
+      "https://s3.amazonaws.com/img.takeoff/manual/20181218-200632-5e7576-849-7704-27089-046500018428.IMG8952.SN5e7576.obj.0.1.jpg"
+    ],
+    "image_reserve": [
+      "https://s3.amazonaws.com/img.takeoff/manual/20181218-200639-5e7576-849-7704-27091-046500018428.IMG8954.SN5e7576.obj.0.1.jpg"
+    ]
+  },
+  {
+    "normalized_ean": "00046500730023",
+    "main_image_reserve": [
+      "https://s3.amazonaws.com/img.takeoff/manual/20181218-195607-5e7576-849-7688-27002-046500730023.IMG8865.SN5e7576.obj.0.1.jpg"
+    ],
+    "image_reserve": [
+      "https://s3.amazonaws.com/img.takeoff/manual/20181218-195617-5e7576-849-7688-27004-046500730023.IMG8867.SN5e7576.obj.0.1.jpg"
+    ]
+  },
+  {
+    "normalized_ean": "00017500081507",
+    "main_image_reserve": [
+      "https://s3.amazonaws.com/img.takeoff/manual/20181218-200049-5e7576-849-7695-27039-017500081507.IMG8902.SN5e7576.obj.0.1.jpg"
+    ],
+    "image_reserve": [
+      "https://s3.amazonaws.com/img.takeoff/manual/20181218-200059-5e7576-849-7695-27041-017500081507.IMG8904.SN5e7576.obj.0.1.jpg"
+    ]
+  },
+  {
+    "normalized_ean": "00046500216121",
+    "main_image_reserve": [
+      "https://s3.amazonaws.com/img.takeoff/manual/20181218-195914-5e7576-849-7693-27027-046500216121.IMG8890.SN5e7576.obj.0.1.jpg"
+    ],
+    "image_reserve": [
+      "https://s3.amazonaws.com/img.takeoff/manual/20181218-195938-5e7576-849-7693-27031-046500216121.IMG8894.SN5e7576.obj.0.1.jpg",
+      "https://s3.amazonaws.com/img.takeoff/manual/20181218-195929-5e7576-849-7693-27029-046500216121.IMG8892.SN5e7576.obj.0.1.jpg"
+    ]
+  },
+  {
+    "normalized_ean": "00071121961815",
+    "main_image_reserve": [
+      "https://s3.amazonaws.com/img.takeoff/manual/20181218-200920-5e7576-850-7709-27121-071121961815.IMG8984.SN5e7576.obj.0.1.jpg"
+    ],
+    "image_reserve": [
+      "https://s3.amazonaws.com/img.takeoff/manual/20181218-200929-5e7576-850-7709-27125-071121961815.IMG8988.SN5e7576.obj.0.1.jpg",
+      "https://s3.amazonaws.com/img.takeoff/manual/20181218-200924-5e7576-850-7709-27123-071121961815.IMG8986.SN5e7576.obj.0.1.jpg",
+      "https://s3.amazonaws.com/img.takeoff/manual/20181218-200936-5e7576-850-7709-27127-071121961815.IMG8990.SN5e7576.obj.0.1.jpg"
+    ]
+  }
+]
